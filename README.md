@@ -25,6 +25,11 @@ A full-featured real-time messaging platform for language exchange, supporting 1
 
 ---
 
+## 🌐 Live Demo
+👉 [View Live Site Here](https://mern-stack-chatapp-y6u2.onrender.com)
+
+---
+
 ## 🧪 .env Setup
 
 ### Backend (`/backend`)
